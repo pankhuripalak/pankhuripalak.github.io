@@ -1,1 +1,0 @@
-# pankhuripalak.github.io

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://palakpankhuri.me/sitemap.xml
